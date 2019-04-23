@@ -1,4 +1,4 @@
-# Novelty detection
+# Known unknowns
 Below papers are associated with novelty detection which is detecting abnormal samples like out-of-distribution and adversarial samples.
 
 ## Utilizing the posterior distribution (threshold-based)
