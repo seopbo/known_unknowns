@@ -5,8 +5,8 @@ Below papers are associated with novelty detection which is detecting abnormal s
 * A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks
   + https://arxiv.org/abs/1610.02136
   + https://github.com/hendrycks/error-detection
-* Principled Detection of Out-of-Distribution Examples in Neural Networks
-  + https://arxiv.org/abs/1706.02690v2
+* Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks
+  + https://arxiv.org/abs/1706.02690
   + https://github.com/ShiyuLiang/odin-pytorch
 
 ## Utilizing the hidden features
